@@ -1,0 +1,107 @@
+body{
+    font-family: 微软雅黑;
+    width: 100%;
+	height: 100%;
+   /* background-color: #f2f2f2;*/
+    font-family: 微软雅黑;
+    background: url(../images/8.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: chocolate;
+}
+.container{
+width: 350px;
+    height:450px;
+    background-color: #f9fbf9;
+ background-color: rgba(0,0,0,0.4);
+margin-top:8%;
+    margin-left: 65%;
+
+}
+.head{
+font-size: 20px;
+    color: white;
+    padding-left: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.container input{
+    border: none;
+    background: white;
+     background-color: rgba(0,0,0,0.2);
+
+}
+
+.zhanghao{
+    height: 10%;  
+    margin-left: 12%;
+    margin-top: 3%;
+    
+}
+.mima{
+    height: 10%;  
+    margin-left: 12%;
+     margin-top: 8%;
+}
+.text{
+    height: 40px;
+    width: 86%;
+    color: white;
+    font-size: 16px;
+}
+.reme{
+ margin-left: 43%;
+     margin-top: 5%;
+    color: #f9fbf9;
+
+}
+.fuxuan{
+ border: none;
+background-color:#f39243;
+}
+.denglu{
+margin-left: 18%;
+     margin-top: 4%;
+    color: #f9fbf9;
+
+}
+.check{
+height: 40px;
+    width: 82%;
+color: white;
+    font-size: 18px;
+}
+.denglu input:hover{
+   background-color: #ffc001;
+    color: black;
+}
+.info{
+    margin-left: 70%;
+    margin-top: 2%;
+}
+.logo{
+margin-left: 10%;
+}
+.img1{
+    padding-left: 20px;
+    padding-top: 18px;
+}
+.img2{
+/*padding-left: 20px;*/
+    margin-top: -16%;
+    margin-left: 40%;
+}
+.img3{
+ margin-top: -13%;
+    margin-left: 70%;
+/*padding-left: 20px;*/
+}

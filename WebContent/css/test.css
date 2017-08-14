@@ -1,0 +1,110 @@
+.ti{
+    font-size: 18px;
+    color: #f9761e;
+    margin-left: 20%;
+    margin-top: 1%;
+}
+.dida{
+ 
+	width: 80%;
+    height: 88%;
+	margin-top:2%; 
+	margin-bottom:20%;
+	margin-left:10%;
+    background-color: #fcdd5b;
+}
+.th{
+padding-top: 2%;
+    padding-left: 20%;
+}
+.th span{
+    padding-left: 20px;
+    padding-right: 11%;
+    font-size: 18px;
+}
+.dida img{
+    margin-left: 5%;
+    margin-top: 2%;
+    height: 220px;
+    width: 300px;
+}
+.i1 div{
+    font-size: 16px;
+    color: white;
+    margin-left: 17%;
+}
+.dida div{
+   /* margin-left: 20%;*/
+}
+.d2{
+    margin-left: 32%;
+    margin-top: -14%;
+    padding-bottom: 13%;
+}
+.d2 span{
+    padding-left: 80px;
+    color: black;
+    font-size: 15px;
+    padding-right: 60px
+}
+.money{
+      margin-left: 84%;
+    margin-top: -15%;
+     padding-bottom: 10%;
+    color: orangered;
+    font-size: 18px;
+}
+.info{
+    
+     background-color: #fcdd5b;
+     margin-bottom:4%;
+}
+.titt{
+	  background-color: burlywood;
+	  font-size:18px;
+	  margin-top: 4%;
+	  height:30px;
+}
+.titt p{
+	 margin-left: 12%;
+	 line-height:30px;
+	 color:black;
+	 padding-bottom:20px;
+    /* margin-top: -15%; */
+}
+.nu{
+    font-size: 16px;
+    color: black;
+}
+.nu:first-child{
+    padding-top: 20px;
+}
+.nu input{
+    width:30%;
+    height: 26px;
+    background-color: white;
+    background: rgba(0,0,0,0.1);
+    border: none;
+    color:white;
+}
+.nu div{
+    margin-left: 36%;
+    padding-bottom: 20px;
+ 
+}
+.choose{
+    margin-left: 30%;
+   padding-bottom:20px;
+}
+.choose span{
+  padding-left: 40px;
+    padding-right: 30px;
+}
+.choose input{
+   width: 60px;
+    height: 30px;
+     margin-top: 10px;
+    background-color: #f95353;
+    border: 1px solid antiquewhite; 
+    
+}
